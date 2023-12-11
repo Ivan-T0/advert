@@ -22,7 +22,7 @@ export const List = styled.ul`
 export const ListItemsTitle = styled.p`
     font-family: 'Manrope';
     font-weight: 500;
-    font-size: 16px;
+    font-size: 17px;
     line-height: 1.5;
 `
 export const ServicesTitle = styled.h3`
